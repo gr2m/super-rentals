@@ -12,7 +12,7 @@
     "start": "ember server",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "github:gr2m/super-rentals",
   "engines": {
     "node": ">= 0.10.0"
   },
